@@ -2,4 +2,4 @@
 
 
 ## Equipe
-- Maria eduarda Nunes
+- Maria Eduarda Nunes
